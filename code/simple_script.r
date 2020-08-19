@@ -16,3 +16,6 @@ a <- 2446
 5*a
 #divide my number by 2
 a/2
+
+#raise my number to the second power
+a^2
